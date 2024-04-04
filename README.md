@@ -1,4 +1,5 @@
 ## What's this
+https://blog.didierstevens.com/2009/11/22/quickpost-selectmyparent-or-playing-with-the-windows-process-tree/    
 This is a project for parent process spoofing.
 
 ## How to use
